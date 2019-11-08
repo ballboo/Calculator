@@ -1,0 +1,23 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benz60711/Test_Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benz60711/Test_Calculator/issues"
+  },
+  "homepage": "https://github.com/Benz60711/Test_Calculator#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
