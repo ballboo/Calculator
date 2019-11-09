@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Benz60711/Test_Calculator.git"
+    "url": "git+https://github.com/ballboo/Calculator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Benz60711/Test_Calculator/issues"
+    "url": "https://github.com/ballboo/Calculator/issues"
   },
-  "homepage": "https://github.com/Benz60711/Test_Calculator#readme",
+  "homepage": "https://github.com/ballboo/Calculator#readme",
   "dependencies": {
     "jest": "^24.9.0"
   }
